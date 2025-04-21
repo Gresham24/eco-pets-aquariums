@@ -31,24 +31,24 @@ const Reviews = () => {
   const reviews = [
     {
       id: 1,
-      author: 'Sarah Johnson',
-      date: '2 months ago',
+      author: 'Caitlin Fourie',
+      date: '11 months ago',
       rating: 5,
-      content: 'Absolutely love this pet store! The staff is incredibly knowledgeable about aquariums and helped me set up the perfect environment for my new goldfish. Their selection of fish and tanks is impressive, and prices are fair. Highly recommend!'
+      content: 'Patrick is the best! He is friendly, super knowledgeable and always helpful and offers valuable advice for any weird and wonderful question I might have. They offer a wide range of products so I can go to one store for all my animals, from dogs to axolotls.'
     },
     {
       id: 2,
-      author: 'Michael Rodriguez',
-      date: '1 month ago',
+      author: 'Stephanie Holloway',
+      date: '12 months ago',
       rating: 5,
-      content: 'Great place for bird supplies and advice. I bought my first parakeet here and the team was so helpful in guiding me through proper care. The store is clean and well-organized, and they clearly care about the animals they sell.'
+      content: 'It was a pleasure dealing with Nicky, the shop from home looks fabulous and she had a variety of stock which I could choose from, thank you again.'
     },
     {
       id: 3,
-      author: 'Emma Wilson',
-      date: '3 weeks ago',
+      author: 'Richard Hagan',
+      date: '1 year ago',
       rating: 4,
-      content: 'Picked up a hamster for my daughter and we couldn\'t be happier. The staff took time to educate us on proper care, and had all the supplies we needed in one place. The only reason for 4 stars instead of 5 is that they were out of the specific hamster wheel we wanted.'
+      content: "The new location is well presented, neat and well stocked. It's a substantial improvement over the previous store. Pricing is very reasonable and they have everything an aquarist could need. Most of all, I am very fond of the staff, particularly the lady who runs the store. She's so friendly, accommodating and humble. Always a pleasure doing business with her and I will certainly continue to support them. I hope that the rest of our community does the same."
     }
   ];
   
