@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { ThemeProvider } from 'styled-components';
-import theme from './styles/theme';
+import theme from './styles/Theme';
 import GlobalStyles from './styles/GlobalStyles';
 
 // Import components
