@@ -1,0 +1,99 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#C2F2E433" />
+  
+  <!-- Decorative circles pattern -->
+  <circle cx="100" cy="70" r="40" fill="#A7D8FF22" />
+  <circle cx="50" cy="150" r="70" fill="#A7D8FF22" />
+  <circle cx="700" cy="100" r="60" fill="#A7D8FF22" />
+  <circle cx="750" cy="300" r="90" fill="#A7D8FF22" />
+  
+  <!-- Bird perch -->
+  <line x1="200" y1="200" x2="600" y2="200" stroke="#7D5A50" stroke-width="12" stroke-linecap="round" />
+  <line x1="210" y1="200" x2="230" y2="350" stroke="#7D5A50" stroke-width="10" stroke-linecap="round" />
+  <line x1="590" y1="200" x2="570" y2="350" stroke="#7D5A50" stroke-width="10" stroke-linecap="round" />
+  
+  <!-- Left bird - green budgie/parakeet -->
+  <g transform="translate(270, 180) scale(0.85)">
+    <!-- Body -->
+    <ellipse cx="0" cy="0" rx="50" ry="40" fill="#88CC66" />
+    
+    <!-- Head -->
+    <circle cx="-30" cy="-15" r="30" fill="#88CC66" />
+    
+    <!-- Eye -->
+    <circle cx="-40" cy="-20" r="5" fill="black" />
+    <circle cx="-42" cy="-22" r="1.5" fill="white" />
+    
+    <!-- Beak -->
+    <path d="M-60 -20 L-75 -15 L-60 -10 Z" fill="#FFCC00" />
+    
+    <!-- Wing -->
+    <ellipse cx="10" cy="0" rx="35" ry="25" fill="#66AA44" />
+    
+    <!-- Tail -->
+    <path d="M50 0 L90 -10 L90 10 Z" fill="#88CC66" />
+    
+    <!-- Feet -->
+    <line x1="-10" y1="40" x2="-10" y2="55" stroke="#FFCC00" stroke-width="3" />
+    <line x1="-5" y1="55" x2="-15" y2="55" stroke="#FFCC00" stroke-width="2" />
+    
+    <line x1="10" y1="40" x2="10" y2="55" stroke="#FFCC00" stroke-width="3" />
+    <line x1="5" y1="55" x2="15" y2="55" stroke="#FFCC00" stroke-width="2" />
+  </g>
+  
+  <!-- Right bird - yellow/orange canary type -->
+  <g transform="translate(500, 180) scale(0.85)">
+    <!-- Body -->
+    <ellipse cx="0" cy="0" rx="50" ry="40" fill="#FFBB44" />
+    
+    <!-- Head -->
+    <circle cx="-30" cy="-15" r="30" fill="#FFBB44" />
+    
+    <!-- Eye -->
+    <circle cx="-40" cy="-20" r="5" fill="black" />
+    <circle cx="-42" cy="-22" r="1.5" fill="white" />
+    
+    <!-- Beak -->
+    <path d="M-60 -20 L-75 -15 L-60 -10 Z" fill="#FF6B6B" />
+    
+    <!-- Wing -->
+    <ellipse cx="10" cy="0" rx="35" ry="25" fill="#FF9933" />
+    
+    <!-- Tail -->
+    <path d="M50 0 L90 -10 L90 10 Z" fill="#FFBB44" />
+    
+    <!-- Feet -->
+    <line x1="-10" y1="40" x2="-10" y2="55" stroke="#FF6B6B" stroke-width="3" />
+    <line x1="-5" y1="55" x2="-15" y2="55" stroke="#FF6B6B" stroke-width="2" />
+    
+    <line x1="10" y1="40" x2="10" y2="55" stroke="#FF6B6B" stroke-width="3" />
+    <line x1="5" y1="55" x2="15" y2="55" stroke="#FF6B6B" stroke-width="2" />
+  </g>
+  
+  <!-- Food icons -->
+  <g transform="translate(350, 280) scale(0.8)">
+    <!-- Seeds -->
+    <circle cx="-80" cy="0" r="18" fill="#F0E0C0" stroke="#7D5A50" stroke-width="2" />
+    <ellipse cx="-85" cy="5" rx="5" ry="3" fill="#7D5A50" transform="rotate(-30)" />
+    <ellipse cx="-75" cy="-2" rx="5" ry="3" fill="#7D5A50" transform="rotate(20)" />
+    <ellipse cx="-78" cy="-10" rx="5" ry="3" fill="#7D5A50" transform="rotate(60)" />
+    
+    <!-- Fruits -->
+    <circle cx="0" cy="0" r="20" fill="#FF6B6B" />
+    <path d="M0 -20 C10 -25, 15 -15, 5 -10" fill="none" stroke="#007C91" stroke-width="2" />
+    <ellipse cx="0" cy="-5" rx="3" ry="5" fill="#44AA66" transform="rotate(-20)" />
+    
+    <!-- Vegetables -->
+    <path d="M80 20 C60 -20, 100 -20, 80 20 Z" fill="#44AA66" />
+    <line x1="80" y1="-20" x2="80" y2="-30" stroke="#44AA66" stroke-width="3" />
+  </g>
+  
+  <!-- Title Banner -->
+  <rect x="150" y="30" width="500" height="60" rx="10" fill="#007C91" />
+  <text x="400" y="70" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">Bird Nutrition Guide</text>
+  
+  <!-- Bottom Banner -->
+  <rect x="0" y="380" width="800" height="70" fill="#007C91" />
+  <text x="400" y="425" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">Eco-Pets &amp; Aquariums</text>
+</svg>

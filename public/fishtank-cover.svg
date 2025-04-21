@@ -1,0 +1,50 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#A7D8FF" />
+  
+  <!-- Bubbles pattern -->
+  <circle cx="100" cy="70" r="20" fill="#C2F2E422" />
+  <circle cx="150" cy="130" r="15" fill="#C2F2E433" />
+  <circle cx="70" cy="200" r="25" fill="#C2F2E422" />
+  <circle cx="130" cy="300" r="18" fill="#C2F2E433" />
+  <circle cx="50" cy="380" r="22" fill="#C2F2E422" />
+  
+  <circle cx="700" cy="90" r="22" fill="#C2F2E422" />
+  <circle cx="650" cy="160" r="17" fill="#C2F2E433" />
+  <circle cx="730" cy="250" r="25" fill="#C2F2E422" />
+  <circle cx="680" cy="330" r="20" fill="#C2F2E433" />
+  <circle cx="730" cy="390" r="15" fill="#C2F2E422" />
+  
+  <!-- Aquarium -->
+  <rect x="200" y="100" width="400" height="250" rx="5" fill="#007C9133" stroke="#007C91" stroke-width="8" />
+  
+  <!-- Water -->
+  <rect x="208" y="120" width="384" height="222" rx="2" fill="#007C9133" />
+  
+  <!-- Fish Tank Plants -->
+  <path d="M230 340 C260 320, 250 250, 245 230 C240 250, 240 300, 230 340" fill="#339966" />
+  <path d="M260 340 C275 320, 290 270, 280 230 C270 260, 240 320, 260 340" fill="#44AA66" />
+  <path d="M290 340 C310 320, 305 250, 300 230 C295 260, 280 310, 290 340" fill="#339966" />
+  
+  <!-- Fish -->
+  <path d="M450 200 C480 180, 520 180, 530 200 C520 220, 480 220, 450 200" fill="#FF6B6B" />
+  <path d="M530 200 L550 210 L530 190 Z" fill="#FF6B6B" />
+  <circle cx="470" cy="195" r="5" fill="#333333" />
+  
+  <path d="M380 240 C410 220, 450 220, 460 240 C450 260, 410 260, 380 240" fill="#FFA500" />
+  <path d="M460 240 L480 250 L460 230 Z" fill="#FFA500" />
+  <circle cx="400" cy="235" r="5" fill="#333333" />
+  
+  <!-- Air Bubbles -->
+  <circle cx="350" cy="190" r="5" fill="white" opacity="0.8" />
+  <circle cx="350" cy="160" r="4" fill="white" opacity="0.7" />
+  <circle cx="350" cy="135" r="3" fill="white" opacity="0.6" />
+  
+  <!-- Title Banner -->
+  <rect x="150" y="30" width="500" height="60" rx="10" fill="#007C91" />
+  <text x="400" y="70" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">How to Set Up a Fish Tank</text>
+  
+  <!-- Bottom Banner -->
+  <rect x="0" y="380" width="800" height="70" fill="#007C91" />
+  <text x="400" y="425" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">Eco-Pets &amp; Aquariums</text>
+</svg>
