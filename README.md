@@ -1,9 +1,9 @@
-# Eco-Pets & Aquariums - Landing Page
+# Petstores CPT - Landing Page
 
-A responsive, mobile-first landing page for Eco-Pets and Aquariums built with React, Vite, and styled-components.
+A responsive, mobile-first landing page for Petstores CPT built with React, Vite, and styled-components.
 
 ## Hosted Link
-https://eco-pets-aquariums.netlify.app/
+https://pet-store-cpt.netlify.app/
 
 ## Features
 
@@ -127,4 +127,4 @@ This project is licensed under the MIT License.
 ## Credits
 
 - Created by Gresham Tembo
-- Design based on requirements for Eco-Pets & Aquariums
+- Design based on requirements for Petstores CPT
