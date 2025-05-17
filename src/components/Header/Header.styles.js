@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const HeaderWrapper = styled.header`
-  background-color: ${({ theme }) => theme.colors.background};
+  background-color: #FCF7F0;
   box-shadow: ${({ $scrolled, theme }) => $scrolled ? theme.shadows.small : 'none'};
   position: sticky;
   top: 0;
@@ -83,7 +83,7 @@ export const NavMenu = styled.nav`
   display: ${({ open }) => open ? 'flex' : 'none'};
   flex-direction: column;
   justify-content: center;
-  background: ${({ theme }) => theme.colors.background};
+  background: #FCF7F0;
   position: absolute;
   top: 0;
   right: 0;

@@ -11,9 +11,9 @@ import Container from '../common/Container';
 
 const Contact = () => {
   // Placeholder data - would be replaced with actual store data
-  const storeAddress = "49 Ashford Cl, Parklands, Cape Town, 7441";
-  const phoneNumber = "+27 (082) 427-3793";
-  const emailAddress = "info@ecopetsaquariums.com";
+  const storeAddress = "Petstores, Cape Town, 7441";
+  const phoneNumber = "+27 (012) 345-5678";
+  const emailAddress = "info@petstores.com";
   const googleMapsUrl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.123456789012!2d18.4931656!3d-33.8125369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5f3f1f551395%3A0x61b5fffd3a098a8!2sEco-Pets%20and%20Aquariums!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus";
   
   return (
@@ -63,7 +63,7 @@ const Contact = () => {
               </svg>
               <ContactContent>
                 <h3>Email Us</h3>
-                <a href={`mailto:${emailAddress}`}>{emailAddress}</a>
+                <a href="#">{emailAddress}</a>
               </ContactContent>
             </ContactItem>
           </ContactInfo>

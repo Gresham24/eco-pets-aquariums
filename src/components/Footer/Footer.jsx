@@ -23,7 +23,7 @@ const Footer = () => {
           <FooterColumn>
             <h3>About Us</h3>
             <p>
-              Eco-Pets & Aquariums is your one-stop shop for all pet needs, specializing in aquariums and small animals. We provide high-quality products and expert advice to help you care for your beloved pets.
+            Petstores CPT is your one-stop shop for all pet needs, specializing in aquariums and small animals. We provide high-quality products and expert advice to help you care for your beloved pets.
             </p>
             <SocialLinks>
               <SocialLink href="#" aria-label="Facebook">
@@ -102,7 +102,7 @@ const Footer = () => {
         </FooterContainer>
         
         <FooterBottom>
-          <p>&copy; {currentYear} Eco-Pets & Aquariums. All Rights Reserved.</p>
+          <p>&copy; {currentYear} Petstores CPT. All Rights Reserved.</p>
         </FooterBottom>
       </Container>
     </FooterWrapper>

@@ -15,9 +15,9 @@ const About = () => {
       <Container>
         <AboutGrid>
           <AboutContent>
-            <h2>About Eco-Pets & Aquariums</h2>
+            <h2>About Petstores CPT</h2>
             <p>
-              At Eco-Pets & Aquariums, we're passionate about pets. Offering quality supplies for fish, hamsters, birds, and more, we're your local experts in pet care.
+              At Petstores CPT, we're passionate about pets. Offering quality supplies for fish, hamsters, birds, and more, we're your local experts in pet care.
             </p>
             <p>
               With years of experience in the pet industry, our knowledgeable team is dedicated to helping you provide the best care for your beloved companions.

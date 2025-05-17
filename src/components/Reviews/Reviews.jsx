@@ -105,7 +105,7 @@ const Reviews = () => {
         </ReviewsGrid>
         
         <AllReviewsLink>
-          <a href="https://www.google.com/search?sca_esv=955177219d80cd60&sxsrf=AHTn8zrOwElKJFtL_L3I07ShjmBlw23bdA:1745250395689&si=APYL9btvhO6SAb8jF9HqTZMMa7vs_teLnZaEVrJZwRKFIIKjoQ04ObnRlMmDnO6cjzzwIX7Fozn_Ai5CPUY3WxVug3GKBWThKBZyvqRR8cvrKqpJFALidg_PxEOc0RxLISadqa3-7352_zuw722_kv8RJflfY-vslg%3D%3D&q=Eco-Pets+and+Aquariums+Reviews&sa=X&ved=2ahUKEwia-4OvvOmMAxXlWUEAHYhrDdIQ0bkNegQIOxAE&biw=1763&bih=934&dpr=1" target="_blank" rel="noopener noreferrer">
+          <a href="#" rel="noopener noreferrer">
             See all Google reviews <ArrowRightIcon />
           </a>
         </AllReviewsLink>
