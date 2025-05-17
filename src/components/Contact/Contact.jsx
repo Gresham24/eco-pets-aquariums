@@ -14,7 +14,7 @@ const Contact = () => {
   const storeAddress = "Petstores, Cape Town, 7441";
   const phoneNumber = "+27 (012) 345-5678";
   const emailAddress = "info@petstores.com";
-  const googleMapsUrl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.123456789012!2d18.4931656!3d-33.8125369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5f3f1f551395%3A0x61b5fffd3a098a8!2sEco-Pets%20and%20Aquariums!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus";
+  const googleMapsUrl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d544014.68002494!2d18.147202354552345!3d-33.901530135566134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc500f8826eed7%3A0xcfa422aef84cac98!2sCity%20of%20Cape%20Town%2C%20Cape%20Town!5e0!3m2!1sen!2sza!4v1747473368408!5m2!1sen!2sza";
   
   return (
     <ContactSection id="contact">

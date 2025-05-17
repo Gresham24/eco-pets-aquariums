@@ -31,24 +31,24 @@ const Reviews = () => {
   const reviews = [
     {
       id: 1,
-      author: 'Caitlin Fourie',
+      author: 'Sarah Mitchell',
       date: '11 months ago',
       rating: 5,
-      content: 'Patrick is the best! He is friendly, super knowledgeable and always helpful and offers valuable advice for any weird and wonderful question I might have. They offer a wide range of products so I can go to one store for all my animals, from dogs to axolotls.'
+      content: 'Absolutely amazing experience! The staff here are incredibly knowledgeable and always go above and beyond to help. Whether I am looking for supplies for my tropical fish or need advice about my reptile setup, they have the expertise and patience to guide me. Their selection of products is impressive, and I love that I can find everything I need for all my pets in one place.'
     },
     {
       id: 2,
-      author: 'Stephanie Holloway',
+      author: 'James Wilson',
       date: '12 months ago',
       rating: 5,
-      content: 'It was a pleasure dealing with Nicky, the shop from home looks fabulous and she had a variety of stock which I could choose from, thank you again.'
+      content: 'I recently visited their new shop and was blown away by the service. The staff member who helped me was incredibly attentive and took the time to understand exactly what I needed for my aquarium. The store is beautifully organized, and they have an excellent selection of both common and specialty items. Will definitely be coming back!'
     },
     {
       id: 3,
-      author: 'Richard Hagan',
+      author: 'Emma Thompson',
       date: '1 year ago',
       rating: 4,
-      content: "The new location is well presented, neat and well stocked. It's a substantial improvement over the previous store. Pricing is very reasonable and they have everything an aquarist could need. Most of all, I am very fond of the staff, particularly the lady who runs the store. She's so friendly, accommodating and humble. Always a pleasure doing business with her and I will certainly continue to support them. I hope that the rest of our community does the same."
+      content: "What a fantastic pet store! The new location is spacious, well-lit, and impeccably organized. Their prices are very competitive, and they stock everything from basic supplies to specialized equipment. The staff are the real highlight though - so friendly and knowledgeable. I particularly appreciate how they take the time to explain things and make sure you're getting exactly what you need. It's rare to find a pet store that combines great products with such excellent customer service."
     }
   ];
   
